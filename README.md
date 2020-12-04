@@ -38,7 +38,7 @@ My name is Jacob Angel and I was born in Southwest Missouri in May of 2003. I fi
 
 ---
 
-## Snake2
+## Snake 2
 
     One of my first ever Java Games that was made  by my 15 year old self. It's snake but without any self collision because I couldn't figure it out. To componsate for my lack of knowledge I made an enemy system where every single time you eat an apply an enemy appears and blocks your path. You have to manuever around the enemys and with more and more of them spawning thats where the difficulty of the game starts coming into play.
 
